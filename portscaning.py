@@ -8,7 +8,7 @@ NETBIOS:139
 HTTPS:443
 SMB:445
 RDB:3389
- """
+"""
 
 from tkinter import*
 import socket

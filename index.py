@@ -4,8 +4,8 @@ import os
 os.system('clear')
 banner="""
 ###########################
-# - ONE AND ZERO - 	  #
-#     DosTools		  #
+#  - ONE AND ZERO - 	   #
+#      DosTools		   #
 ###########################			  
 
 """
